@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+<style type="text/css">
+	.st0{fill:#49B9FF;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#231815;}
+	.st3{fill:#FFE100;}
+</style>
+<path class="st0" d="M0,0h900v600H0V0z"/>
+<path class="st1" d="M450,79.3l199,448.3l-199-42.8l-199,42.8L450,79.3z"/>
+<path class="st2" d="M450,139.8l153.2,345H296.8L450,139.8z"/>
+<path class="st3" d="M450,290.6l199,237H251L450,290.6L450,290.6z"/>
+</svg>
